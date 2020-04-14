@@ -1,0 +1,151 @@
+@charset "utf-8";
+/* CSS Document */
+.mdiv{
+	width:94%;
+	height:490px;
+	
+	position:absolute;
+	top:80px;
+	left:3%;
+	
+	background:url(%E5%9B%BE%E7%89%87/stadium1.jpg) no-repeat center center;
+	border-radius:20px;
+
+}
+.mdiv:hover{
+	background:url(%E5%9B%BE%E7%89%87/stadium2.jpg) no-repeat center center;
+}
+.mdiv1{
+	width:94%;
+	height:490px;
+	
+	position:absolute;
+	top:580px;
+	left:3%;
+	
+	background:url(%E5%9B%BE%E7%89%87/Neymar1.jpg) no-repeat center center;
+	border-radius:20px;
+}
+.mdiv1:hover{
+	background:url(%E5%9B%BE%E7%89%87/Neymar2.jpg) no-repeat center center;
+}
+.mdiv2{
+	width:94%;
+	height:490px;
+	
+	position:absolute;
+	top:1080px;
+	left:3%;
+	
+	background:url(%E5%9B%BE%E7%89%87/Messi1.jpg) no-repeat center center;
+	border-radius:20px;
+	
+}
+.mdiv2:hover{
+	background:url(%E5%9B%BE%E7%89%87/Messi2.jpg) no-repeat center center;
+}
+.mdiv3{
+	width:70px;
+	height:30px;
+	
+	position:relative;
+	left:50%;
+	top:460px;
+	
+	border:1px #FFF solid;
+	border-radius:5px 5px 5px 5px;
+}
+.mdiv4{
+	width:750px;
+	height:45px;
+	
+	position:relative;
+	left:30%;
+	top:350px;
+	
+	font-size:45px;
+	text-align:center;
+	font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	color:black;
+	font-weight:600;
+}
+.mdiv5{
+	
+	width:400px;
+	height:40px;
+	
+	position:relative;
+	left:-110px;
+	top:-10px;
+	
+	margin: 10px auto auto 10px;
+}
+.mtext{
+	text-align:center;
+	font-size: 50px;
+    line-height: 1.0;
+    letter-spacing:3px;
+    font-family: "San Francisco", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	line-height:10px;
+	font-weight:bold;
+	color: white;
+}
+.mtext1{
+	text-align:center;
+	font-size: 50px;
+    line-height: 1.0;
+    letter-spacing:3px;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	line-height:10px;
+	font-weight:500;
+	
+}
+.mtext2{
+	font-size:18px;
+	color:#FFF;
+	font-weight:400;
+	text-align:center;
+	line-height:-15px;
+}
+
+ul {
+    text-align:center;
+	float:left;
+	width:260px;
+	height:50px;
+	margin-right:0px;
+}
+li {
+	list-style-type:none;
+    float:left;
+	width:130px;
+	height:50px;
+	
+}
+.mmaxdiv{
+		width:100%;
+		height:1578px;
+		background:#000;
+		z-index:-5;
+		margin-left:0px;
+		margin-right:0px;
+		padding-left:0px;
+		padding-right:0px;
+	}
+.myewei{
+	width:100%;
+	height:210px;
+	background:black;
+	z-index:-10;
+     
+	position:relative;
+	top:1573px;
+}
+.mtouming{
+	width:100%;
+	height:300px;
+	
+	z-index:-8;
+	position:absolute;
+	top:1477px;
+	}

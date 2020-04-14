@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+.xbackground{
+	width:2000px;
+	height:800px;
+	
+	position: absolute;
+	top:0px;
+	left: 50%;
+	right:50%;
+	transform:translateX(-50%);
+	z-index: -1;
+	
+	background:url(背景/夜晚体育馆.jpg) no-repeat center center;
+}
+.xcover{
+	width: 1200px;
+	height: 200px;
+	
+	position: absolute;
+	top: 800px;
+	z-index: -3;
+}
+.xsearchbackground{
+	width: 700px;
+	height: 52px;
+	
+	position: fixed;
+	top:180px;
+	left:50%;
+	right:50%;
+	transform:translateX(-46.5%);
+	z-index: 10;
+	/*background-color:rgba(255,255,255,0.5);*/
+}
+.xsearch{
+	width: 550px;
+	height: 48px;
+	
+	position: relative;
+	top:-50px;
+	left: 50px;
+	background-color:rgba(255,255,255,0.7);
+	border-style: none;
+}
+.xpandabrand1{
+	width: 50px;
+	height: 50px;
+	
+	border-bottom-left-radius: 10px;
+	border-top-left-radius:10px;
+	background-color: rgba(255,255,255,0.7);
+}
+.xpandabrand2{
+	width: 50px;
+	height: 50px;
+	
+	position: relative;
+	top:-100px;
+	left: 600px;
+	
+	border-bottom-right-radius: 10px;
+	border-top-right-radius: 10px;
+	background-color:rgba(255,255,255,0.7);
+}
+.xpandabrandimg{
+	width: 50px;
+	height: 50px;
+}
+.xspeaker{
+	width:35px;
+	height: 35px;
+	
+	margin-top: 7px;
+	margin-left: 7px;
+}

@@ -1,0 +1,274 @@
+@charset "utf-8";
+/* CSS Document */
+.xmatch{
+	width:900px;
+	height:600px;
+	
+	position:absolute;
+	top:80px;
+	left: 50%;
+	right:50%;
+	transform:translateX(-50%);
+	z-index: 10;
+	
+	background-color:rgba(0,0,0,0.7);
+	border-radius:10px;
+}
+.xbackground{
+	width:2000px;
+	height:800px;
+	
+	position: absolute;
+	top:0px;
+	left: 50%;
+	right:50%;
+	transform:translateX(-50%);
+	z-index: -1;
+	
+	background:url(背景/夜晚体育馆.jpg)no-repeat center center;
+}
+.xcover{
+	width: 1200px;
+	height: 200px;
+	
+	position: absolute;
+	top: 800px;
+	z-index: -3;
+}
+.xcomparescore1{
+	width: 800px;
+	height: 30px;
+	
+	margin-top: 22px;
+	margin-left:35px;
+	float:left;
+	
+	/*background-color:rgba(0,0,0,0.5);*/
+	border-radius:10px;
+}
+.xcomparescore1:hover{
+	width: 800px;
+	height: 30px;
+	
+	margin-top: 22px;
+	margin-left:35px;
+	float:left;
+	
+	background-color:rgba(255,255,255,0.5);
+	border-radius:10px;
+}
+.xcomparescore2{
+	width: 800px;
+	height: 40px;
+	
+	margin-top: 11px;
+	margin-left:35px;
+	float:left;
+	
+	/*background-color:rgba(0,0,0,0.5);*/
+	border-radius:10px;
+}
+.xcomparescore2:hover{
+	width: 800px;
+	height: 40px;
+	
+	margin-top: 11px;
+	margin-left:35px;
+	float:left;
+	
+	background-color:rgba(255,255,255,0.5);
+	border-radius:10px;
+}
+.xcomparescore3{
+	width: 800px;
+	height: 40px;
+	
+	margin-top: 22px;
+	margin-left:35px;
+	float:left;
+	
+	/*background-color:rgba(0,0,0,0.5);*/
+	border-radius:10px;
+}
+.xcomparescore3:hover{
+	width: 800px;
+	height: 40px;
+	
+	margin-top: 22px;
+	margin-left:35px;
+	float:left;
+	
+	background-color:rgba(255,255,255,0.5);
+	border-radius:10px;
+}
+.xcomparescorediv{
+	width: 160px;
+	height: 40px;
+	
+	float: left;
+	
+	/*background-color:rgba(0,0,0,0.6);*/
+	border-radius:10px;
+}
+.xcomparescorediv1{
+	width: 96px;
+	height: 40px;
+	
+	float: left;
+	
+	/*background-color:rgba(0,0,0,0.5);*/
+	border-radius:10px;
+}
+.xcomparescoredivtitle{
+	width: 800px;
+	height: 30px;
+	
+	float: left;
+	
+	border-radius: 10px;
+	/*background-color: rgba(255,255,255,0.5);*/
+}
+.xcomparescorepdivptitle{
+	position: relative;
+	top:-15px;
+	
+	font-family: 黑体;
+	font-size:20px;
+	font-weight:900;
+	text-align: center;
+	color:white;
+}
+.xcomparescoredivp{
+	text-align: center;
+	margin-top: 5px;
+	
+	font-size:10px;
+	color: white;
+}
+.xcomparescoredivcountry1{
+	position: relative;
+	top: -10px;
+	left: 2px;
+	text-align: center;
+
+	font-family: 黑体;
+	font-size:20px;
+	font-weight: 500;
+	color: white;
+}
+.xcomparescoredivcountry2{
+	position: relative;
+	top: -10px;
+	left: 2px;
+	text-align: center;
+
+	font-family: 黑体;
+	font-size:20px;
+	font-weight: 500;
+	color: white;
+}
+.xcomparescoredivflag1{
+
+	width: 60px;
+	height: 40px;
+	
+	margin-left: 50%;
+	margin-right: 50%;
+	transform: translateX(-50%);
+	margin: center;
+	
+	border-radius:10px;
+}
+.xcomparescoredivflag2{
+	width: 60px;
+	height: 40px;
+	
+	margin-left: 50%;
+	margin-right: 50%;
+	transform: translateX(-50%);
+	border-radius:10px;
+}
+.xcomparescoredivvs{
+	position: relative;
+	top:-27px;
+	text-align: center;
+	
+	font-family: 黑体;
+	font-size: 30px;
+	font-weight: 900;
+	color: white;
+}
+.xleftbutton{
+	width: 80px;
+	height: 600px;
+	
+	position: absolute;
+	top:80px;
+	left:50%;
+	right:50%;
+	transform:translateX(-670%);
+	z-index: 10;
+	
+	background-color: rgba(0,0,0,0.5);
+	border-radius:10px;
+}
+.xleftbutton:hover{
+	width: 80px;
+	height: 600px;
+	
+	position: absolute;
+	top:80px;
+	left:50%;
+	right:50%;
+	transform:translateX(-670%);
+	z-index: 10;
+	
+	background-color: rgba(255,255,255,0.5);
+	border-radius:10px;
+}
+.xleftbuttonimg{
+	width: 60px;
+	height: 60px;
+	
+	position: relative;
+	top:250px;
+	left: 10px;
+}
+.xrightbutton{
+	width: 80px;
+	height: 600px;
+	
+	position: absolute;
+	top:80px;
+	left:50%;
+	right:50%;
+	transform:translateX(570%);
+	z-index: 10;
+	
+	background-color: rgba(0,0,0,0.5);
+	border-radius:10px;
+}
+.xrightbutton:hover{
+	width: 80px;
+	height: 600px;
+	
+	position: absolute;
+	top:80px;
+	left:50%;
+	right:50%;
+	transform:translateX(570%);
+	z-index: 10;
+	
+	background-color: rgba(255,255,255,0.5);
+	border-radius:10px;
+}
+.xrightbuttonimg{
+	width: 60px;
+	height: 60px;
+	
+	position: relative;
+	top:250px;
+	left: 10px;
+}
+
+

@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+		height: 100%;
+	}
+		body{
+			margin:0;
+			padding:0;
+	}
+		#xmain{
+			
+			background:rgba(255,255,255,0.5);
+			border-radius: 10px;
+			z-index: 10;
+			height:60px;
+			/*position:fixed;
+			left:34%;
+			top: 10px;*/
+			position: fixed;
+		    top: 10px;
+		    left: 0px;
+		    right: 0px;
+		    width: 533px;
+		    height: 60px;
+			margin-left:auto;
+		    margin-right:auto;
+			
+}
+		
+		#xmain1{
+			background:rgba(255,255,255,0.5);
+		}
+		#xlabel1{
+			margin-left:0px;
+			position: absolute;
+			left: 20px;
+			top:5px;
+		}
+		#ximg1{
+			width:50px;
+		}
+		#ximg1:hover{
+			position: absolute;
+			left: -15px;
+			top: -15px;
+			width: 80px;
+		}
+		#xlabel2{
+			margin-left:0px;
+			position: absolute;
+			left: 100px;
+			top:5px;
+		}
+		#ximg2{
+			width:50px;
+		}
+		#ximg2:hover{
+			position: absolute;
+			left:-15px;
+			top:-15px;
+			width: 80px;
+		}
+		
+		#xlabel3{
+			margin-left:0px;
+			position: absolute;
+			left:190px;
+			top:5px;
+		}
+		#ximg3{
+			width:50px;
+		}
+		#ximg3:hover{
+			position: absolute;
+			left:-15px;
+			top:-15px;
+			width: 80px;
+		}
+				#xlabel4{
+			margin-left:30px;
+			position: absolute;
+			left:250px;
+			top:5px;
+		}
+		#ximg4{
+			width:50px;
+		}
+		#ximg4:hover{
+			position: absolute;
+			left:-15px;
+			top:-15px;
+			width: 80px;
+		}
+				#xlabel5{
+			margin-left:30px;
+			position: absolute;
+			left:340px;
+			top:5px;
+		}
+		#ximg5{
+			width:50px;
+		}
+		#ximg5:hover{
+			position: absolute;
+			left:-15px;
+			top:-15px;
+			width: 80px;
+		}
+						#xlabel6{
+			margin-left:30px;
+			position: absolute;
+			left:430px;
+			top:5px;
+		}
+		#ximg6{
+			width:50px;
+		}
+		#ximg6:hover{
+			position: absolute;
+			left:-15px;
+			top:-15px;
+			width: 80px;
+		}

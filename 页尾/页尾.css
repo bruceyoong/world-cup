@@ -1,0 +1,168 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: black;
+}
+.xfooter{
+		height: 200px;
+		width:1200px;
+		
+		position: fixed;
+		bottom: 0px;
+		left:50%;
+		right: 50%;
+		transform:translateX(-50%);
+		z-index: -2;
+		
+		/*background-color:rgba(0,0,0,0.5);*/
+		
+	}	
+.xcompany{
+		width: 900px;
+		height: 50px;
+		
+		position:relative;
+		top: 20px;
+		left: 150px;
+		
+		border-radius:10px;
+		background:rgba(255,255,2,0.5);
+	}
+.ximg1{
+	width: 100px;
+	height:40px;
+	
+	float: left;
+	margin-top: 5px;
+}
+.xmessage{
+	height:110px;
+	width: 900px;
+	
+	position: relative;
+	top:25px;
+	left: 150px;
+	
+	border-radius: 10px;
+	background-color: rgba(255,255,2,0.5);
+}
+.xmess1{
+	position: relative;
+	top: 15px;
+}
+.xmess2{
+	position: relative;
+	top: 30px;
+}
+.xmessage a{
+	margin-left:70px;
+	
+	font-family:黑体;
+	font-size:16px;
+	color: black;
+	text-decoration: none;
+}
+.xmessage a:hover{
+	color:white;
+}
+.xsponsor{
+	height: 40px;
+	width: 90px;
+	
+	position: relative;
+	top:-135px;
+	left: 52px;
+	
+	border-radius: 10px;
+	background-color: rgba(255,255,2,0.5);
+
+}
+.xsponsor font{
+	position: relative;
+	top:9px;
+	left: 15px;
+	
+	font-family: 黑体;
+	font-size:20px;
+	text-align: center;
+}
+.xarea{
+	height: 40px;
+	width: 90px;
+	
+	position: relative;
+	top:-175px;
+	left: 1058px;
+	
+	border-bottom-left-radius: 100px;
+	border-bottom-right-radius:40px;
+	border-top-left-radius:100px;
+	border-top-right-radius: 40px;
+	background-color: rgba(255,255,2,0.5);
+}
+.xarea img{
+	width: 100px;
+	height:40px;
+	
+	position:relative;left:-30px;
+}
+.xareaimgfont{
+	height:40px;
+	width:90px;
+	
+	position:relative;
+	left:43px;
+	top:-35px;
+	
+	font-family: 黑体;
+	font-size:20px;
+	font-weight:500;
+	color:black;
+}
+.xfooterbackground{
+	height: 200px;
+	width:100%;
+	
+		position: fixed;
+		bottom: 0px;
+		left:50%;
+		right: 50%;
+		transform:translateX(-50%);
+	
+	background:url(背景/足球场.png);
+	z-index: -100;
+}
+.xpanda{
+	width:350px;
+	height:50px; 
+	position:absolute; 
+	bottom:0px;
+	left:50%;
+	right: 50%;
+	transform:translateX(-50%);
+}
+.xpanda:hover{
+	width:350px;
+	height:200px; 
+	position:absolute; 
+	top:0px;
+	left:50%;
+	right: 50%;
+	transform:translateX(-50%);
+	
+	background-image:url(商标/PANDA.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 125px 125px;
+	
+}
+.xpandaa{
+	font-family:黑体;
+	font-size:15px;
+	font-weight:500px;
+	color:#3F3F3F;
+	position: absolute;
+	bottom:20px;
+	left: 20px;
+}
+

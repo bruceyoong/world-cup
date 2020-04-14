@@ -1,0 +1,253 @@
+@charset "utf-8";
+/* CSS Document */
+.xbackground{
+	width:2000px;
+	height:910px;
+	
+	position: absolute;
+	top:0px;
+	left: 50%;
+	right:50%;
+	transform:translateX(-50%);
+	z-index: -1;
+	
+	background-color: black;
+	/*background:url(背景/夜晚体育馆.jpg) no-repeat center center;*/
+}
+.xcover{
+	width: 1200px;
+	height: 200px;
+	
+	position: absolute;
+	top: 910px;
+	z-index: -3;
+}
+.xplayers1{
+	
+	width: 1200px;
+	height:398px;
+	
+	position: absolute;
+	top:80px;
+	left: 50%;
+	right:50%;
+	transform:translateX(-50%);
+	z-index:10;
+	
+	/*background-color:rgba(255,255,255,0.5);*/
+}
+.xplayers2{
+	
+	width: 1200px;
+	height:398px;
+	
+	position: absolute;
+	top:498px;
+	left: 50%;
+	right:50%;
+	transform:translateX(-50%);
+	z-index:10;
+	
+	/*background-color:rgba(255,255,255,0.5);*/
+}
+.xtitle{
+	width:1200px;
+	height:50px;
+	
+	position:relative;
+	
+	left:0px;
+	right:0px;
+	top:0px;
+	/*background-color: rgba(255,255,255,0.5);*/
+	border-radius: 10px;
+}
+.xtitle:hover{
+	width:1200px;
+	height:50px;
+	
+	position:relative;
+	
+	left:0px;
+	right:0px;
+	top:0px;
+	background-color: rgba(255,255,255,0.5);
+	border-radius: 10px;
+}
+.xtitlef1{
+	font-family:黑体;
+	font-weight: bolder;
+	font-size: 30px;
+	color:white;
+	position: relative;
+	top:7px;
+	left: 10px;
+}
+.xtitlef2{
+	font-family:黑体;
+	font-weight: bolder;
+	font-size: 30px;
+	color:white;
+	position: relative;
+	top:7px;
+	left:1065px;
+}
+.xplayer1{
+	width: 290px;
+	height:348px;
+	
+	margin-right:13px;
+	float: left;
+	/*background-color:rgba(255,255,255,0.5);*/
+}
+.xplayer1:hover{
+	width: 290px;
+	height:348px;
+	
+	margin-right:13px;
+	float: left;
+	background-color:rgba(255,255,255,0.5);
+	border-radius: 10px;
+}
+.xplayer2{
+	width: 290px;
+	height:348px;
+	
+	float: left;
+	/*background-color:rgba(255,255,255,0.5);*/
+}
+.xplayer2:hover{
+	width: 289.5px;
+	height:348px;
+	
+	float: left;
+	background-color:rgba(255,255,255,0.5);
+	border-radius: 10px;
+}
+.xplayerimg{
+	width:290px;
+	height: 290px;
+	
+	border-radius: 100%;
+	background-color: rgba(255,255,255,0.5);
+}
+.xplayerimgimg{
+	width: 290px;
+	height: 290px;
+	
+	border-radius: 100%;
+}
+.xplayercountryname{
+	width:90px;
+	height: 60px;
+	
+	position: relative;
+	top:-315px;
+	left: 200px;
+	background-color: rgba(255,255,255,0.5);
+	border-radius: 10px;
+}
+.xplayercountrynamep{
+	position: relative;
+	top: 15px;
+	left: 8px;
+	font-family: 黑体;
+	font-size:25px;
+	font-weight: bolder;
+	color: white;
+}
+.xplayernumber{
+	width: 60px;
+	height: 60px;
+	
+	position: relative;
+	top:-415px;
+	left:0px;
+	border-radius:100%;
+	background-color: rgba(255,255,255,0.5);
+}
+.xplayernumberp{
+	font-family: 黑体;
+	font-size: 40px;
+	
+	position: relative;
+	top:8px;
+	
+	text-align: center;
+	font-weight: bolder;
+	color:white;
+}
+.xplayercountryimg{
+	width:90px;
+	height: 60px;
+	
+	position: relative;
+	top:-260px;
+	left:0px;
+	
+	background-color: rgba(255,255,255,0.5);
+	border-radius: 10px;
+}
+.xplayercountryimgimg{
+	width: 91px;
+	height: 60px;
+	
+	border-radius: 10px;
+	border-style: solid;
+	border-color:burlywood;
+	background-color: burlywood;
+}
+.xplayername{
+	width:290px;
+	height: 60px;
+	
+	position: relative;
+	top: -540px;
+	margin-top:292.5px;
+	background-color:rgba(255,255,255,0.5);
+	border-radius: 10px;
+}
+.xplayercountryimg1{
+	width:90px;
+	height: 60px;
+	
+	position: relative;
+	top:-157px;
+	left:0px;
+	
+	background-color: rgba(255,255,255,0.5);
+	border-radius: 10px;
+}
+.xplayername{
+	width:290px;
+	height: 60px;
+	
+	position: relative;
+	top: -540px;
+	margin-top:292.5px;
+	background-color:rgba(255,255,255,0.5);
+	border-radius: 10px;
+}
+.xplayername1{
+	width:290px;
+	height: 60px;
+	
+	position: relative;
+	top: -438px;
+	margin-top:292.5px;
+	background-color:rgba(255,255,255,0.5);
+	border-radius: 10px;
+}
+.xplayernamep{
+	text-align: center;
+	position: relative;
+	top:10px;
+	font-family:黑体;
+	font-size: 40px;
+	color: white;
+	
+	font-weight: bolder;
+}
+
+
+
