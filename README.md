@@ -1,9 +1,9 @@
-# 世界杯
+# 世界杯静态网页
 ## 介绍 😊
 这是一个以世界杯为主题的静态网页，是我和好友在大一下学期，一起做的 HTML+CSS 期末作品。因为世界杯刚好在期末期间举办，所以以此为项目主题。这是我们做的第一个 HTML+CSS 项目，比较用心去做了，现在开源出来，希望对你们的学习有帮助哈。
 
 ## 浏览 👀
-点击 [世界杯](https://www.wisyoong.com/world-cup/%E4%B8%96%E7%95%8C%E6%9D%AF.html) 即可在线浏览项目。
+点击 [世界杯静态网页](https://www.wisyoong.com/world-cup/%E4%B8%96%E7%95%8C%E6%9D%AF.html) 即可在线浏览项目。
 ## 下载 🧑🏻‍💻
 进入[项目地址](https://github.com/wisyoong/world-cup.github.io)，点击 *Clone or download* 按钮，在点击 *Download ZIP* ，即可下载。解压文件后打开文件夹，点击 *世界杯.html* 即可跳转至浏览器浏览项目。
 
