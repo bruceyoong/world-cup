@@ -5,7 +5,7 @@
 ## 浏览 👀
 点击 [世界杯静态网页](https://bruceyoong.github.io/world-cup/%E4%B8%96%E7%95%8C%E6%9D%AF.html) 即可在线浏览项目。
 ## 下载 🧑🏻‍💻
-进入[项目地址](https://github.com/bruceyoong/world-cup.github.io)，点击 *Clone or download* 按钮，在点击 *Download ZIP* ，即可下载。解压文件后打开文件夹，点击 *世界杯.html* 即可跳转至浏览器浏览项目。
+进入[项目地址](https://github.com/bruceyoong/world-cup)，点击 *Clone or download* 按钮，在点击 *Download ZIP* ，即可下载。解压文件后打开文件夹，点击 *世界杯.html* 即可跳转至浏览器浏览项目。
 
 ## 项目结构 ⛩
 * 每个页面为一个文件夹，如 *新闻页面* 在名字为 *新闻页面* 的文件夹里。
